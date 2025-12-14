@@ -14,7 +14,7 @@ function validateForm() {
     Swal.fire({
       icon: "success",
       title: "Login berhasil!",
-      text: "Selamat datang imaa",
+      text: "Selamat datang Araa",
       showConfirmButton: false,
       timer: 1500,
     }).then(function () {
